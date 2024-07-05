@@ -27,7 +27,7 @@ This project detects the horizon line in sea images using OpenCV library in C++.
    mkdir build
    cd build
 
-6. Generate the Makefild using CMake
+6. Generate the Makefild using CMake:
    cmake ..
 
 7. Build the project:
