@@ -32,3 +32,5 @@ This project detects the horizon line in sea images using OpenCV library in C++.
 
 7. Build the project:
    make
+
+8. Run the project: ./SeaImageProcessing <image_path>
