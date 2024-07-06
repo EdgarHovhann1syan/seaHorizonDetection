@@ -1,3 +1,0 @@
-/home/edgar/Desktop/edgeDetection/build/CMakeFiles/SeaImageProcessing.dir
-/home/edgar/Desktop/edgeDetection/build/CMakeFiles/edit_cache.dir
-/home/edgar/Desktop/edgeDetection/build/CMakeFiles/rebuild_cache.dir
